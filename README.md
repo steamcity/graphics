@@ -18,9 +18,6 @@ The repository includes:
 
 ---
 
-
----
-
 ## Usage Guidelines
 
 All visual elements of the SteamCity project must respect the following principles:
